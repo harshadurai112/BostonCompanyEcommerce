@@ -18,12 +18,6 @@ This is a full stack e-commerce application built with Next.js 14, integrated wi
 
 ---
 
-## Demo
-
-Try out the live demo [here](#) *(add your live URL if available)*
-
----
-
 ## Getting Started
 
 ### Prerequisites
