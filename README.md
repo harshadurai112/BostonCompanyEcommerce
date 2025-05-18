@@ -1,4 +1,4 @@
-# Full Stack E-Commerce App with Admin Dashboard & CMS (2024)
+# Full Stack E-Commerce App with Admin Dashboard & CMS (2025)
 
 ![e-commerce](https://i.ibb.co/Y3Hsth3/YT-Thumbnails-3.png)
 
