@@ -1,7 +1,5 @@
 # Full Stack E-Commerce App with Admin Dashboard & CMS (2025)
 
-![e-commerce](https://i.ibb.co/Y3Hsth3/YT-Thumbnails-3.png)
-
 This is a full stack e-commerce application built with Next.js 14, integrated with Stripe for payments, and featuring a powerful admin dashboard and CMS to manage products and orders.
 
 ---
